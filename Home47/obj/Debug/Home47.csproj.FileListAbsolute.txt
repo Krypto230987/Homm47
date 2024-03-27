@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Home47\Home47\bin\Debug\Home47.exe.config
+C:\Users\User\source\repos\Home47\Home47\bin\Debug\Home47.exe
+C:\Users\User\source\repos\Home47\Home47\bin\Debug\Home47.pdb
+C:\Users\User\source\repos\Home47\Home47\obj\Debug\Home47.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Home47\Home47\obj\Debug\Home47.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Home47\Home47\obj\Debug\Home47.exe
+C:\Users\User\source\repos\Home47\Home47\obj\Debug\Home47.pdb
